@@ -2,47 +2,7 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="de-DE" original="SLTBase.g.xlf">
     <body>
-      <group id="body">
-        <trans-unit id="PageExtension 4242799603 - Control 4250802448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
-          <source>Displays the degree of roasting in percent.</source>
-          <target>Zeigt den Grad der Röstung in Prozent an.</target>
-          <note from="Developer" annotates="general" priority="2">DEU = "Zeigt den Grad der Röstung in Prozent an."</note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardTSO - Control Degree of roasting in %TSO - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1381586333 - Control 4250802448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3689007477">
-          <source>Displays the degree of roasting in percent.</source>
-          <target>Zeigt den Grad der Röstung in Prozent an.</target>
-          <note from="Developer" annotates="general" priority="2">DEU = "Zeigt den Grad der Röstung in Prozent an."</note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesInvoiceSubformTSO - Control Degree of roasting in %TSO - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2559289344 - Control 4250802448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
-          <source>Displays the degree of roasting in percent.</source>
-          <target>Zeigt den Grad der Röstung in Prozent an.</target>
-          <note from="Developer" annotates="general" priority="2">DEU = "Zeigt den Grad der Röstung in Prozent an."</note>
-          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrderSubformTSO - Control Degree of roasting in %TSO - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 894576167 - Field 4250802448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
-          <source>Degree of roasting in %</source>
-          <target>Röstgrad in %</target>
-          <note from="Developer" annotates="general" priority="2">DEU = "Röstgrad in %"</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemTSO - Field Degree of roasting in %TSO - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 776932361 - Field 4250802448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2079186865">
-          <source>Degree of roasting in %</source>
-          <target>Röstgrad in %</target>
-          <note from="Developer" annotates="general" priority="2">DEU = "Röstgrad in %"</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesInvoiceLineTSO - Field Degree of roasting in %TSO - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 1565226466 - Field 4250802448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
-          <source>Degree of roasting in %</source>
-          <target>Röstgrad in %</target>
-          <note from="Developer" annotates="general" priority="2">DEU = "Röstgrad in %"</note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesLineTSO - Field Degree of roasting in %TSO - Property Caption</note>
-        </trans-unit>
-      </group>
+      <group id="body"></group>
     </body>
   </file>
 </xliff>

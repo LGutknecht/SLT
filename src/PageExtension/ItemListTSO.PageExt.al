@@ -1,7 +1,8 @@
-pageextension 50100 ItemCardTSO extends "Item Card"
+pageextension 50101 ItemListTSO extends "Item List"
 {
     layout
     {
         // Add changes to page layout here
     }
+
 }
