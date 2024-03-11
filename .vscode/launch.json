@@ -1,0 +1,44 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+             "name": "Selfservice - SLTSchuelerTag ",
+             "type": "al",
+             "request": "launch",
+             "environmentType": "OnPrem",
+             "server": "https://start.tso.de",
+             "serverInstance": "SLTSchuelerTagdev",
+             "port": 443,
+             "authentication": "UserPassword",
+             "breakOnError": "All",
+             "breakOnRecordWrite": "None",
+             "launchBrowser": true,
+             "enableSqlInformationDebugger": true,
+             "enableLongRunningSqlStatements": true,
+             "longRunningSqlStatementsThreshold": 500,
+             "numberOfSqlStatements": 10,
+             "tenant": "default",
+             "usePublicURLFromServer": true,
+             "schemaUpdateMode": "ForceSync"
+        },{
+            "name": "Selfservice - ENTW1 ",
+            "type": "al",
+            "request": "launch",
+            "environmentType": "OnPrem",
+            "server": "https://start.tso.de",
+            "serverInstance": "SLTentw1dev",
+            "port": 443,
+            "authentication": "UserPassword",
+            "breakOnError": "All",
+            "breakOnRecordWrite": "None",
+            "launchBrowser": true,
+            "enableSqlInformationDebugger": true,
+            "enableLongRunningSqlStatements": true,
+            "longRunningSqlStatementsThreshold": 500,
+            "numberOfSqlStatements": 10,
+            "tenant": "default",
+            "usePublicURLFromServer": true,
+            "schemaUpdateMode": "Synchronize"
+       }
+    ]
+}
